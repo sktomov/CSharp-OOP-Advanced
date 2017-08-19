@@ -17,7 +17,7 @@
                     .Take(studentsToTake)
                     .ToDictionary(x => x.Key, x => x.Value));
             }
-            else if(comparison == "descending")
+            else if (comparison == "descending")
             {
                 this.PrintStudents(studentsWithMark
                     .OrderByDescending(x => x.Value)

@@ -1,5 +1,4 @@
-﻿
-namespace BashSoft
+﻿namespace BashSoft
 {
     using BashSoft.Contracts;
 

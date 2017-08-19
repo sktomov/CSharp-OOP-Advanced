@@ -13,7 +13,7 @@
             this.interpreter = interpreter;
         }
 
-        public  void StartReadingCommands()
+        public void StartReadingCommands()
         {
             OutputWriter.WriteMessage($"{SessionData.CurrentPath}" + "> ");
             string input = Console.ReadLine().Trim();
