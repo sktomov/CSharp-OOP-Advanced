@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CardSuit", "1.CardSuit\01.CardSuit.csproj", "{5C0BFAA4-25D0-4762-BF37-9EA07C935730}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.TrafficLights", "09.TrafficLights\09.TrafficLights.csproj", "{D39B2740-19AA-4681-98CB-822B562CE7F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.Inferno", "10.Inferno\10.Inferno.csproj", "{749D46CB-227E-49CF-8CF1-D95A15442C57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C0BFAA4-25D0-4762-BF37-9EA07C935730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C0BFAA4-25D0-4762-BF37-9EA07C935730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C0BFAA4-25D0-4762-BF37-9EA07C935730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C0BFAA4-25D0-4762-BF37-9EA07C935730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D39B2740-19AA-4681-98CB-822B562CE7F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D39B2740-19AA-4681-98CB-822B562CE7F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D39B2740-19AA-4681-98CB-822B562CE7F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D39B2740-19AA-4681-98CB-822B562CE7F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{749D46CB-227E-49CF-8CF1-D95A15442C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{749D46CB-227E-49CF-8CF1-D95A15442C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{749D46CB-227E-49CF-8CF1-D95A15442C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{749D46CB-227E-49CF-8CF1-D95A15442C57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
